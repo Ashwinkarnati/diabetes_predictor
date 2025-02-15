@@ -136,5 +136,5 @@ diabetes-predictor/
 
 ---
 
-### 🔥 Developed with ❤️ by [Karnati Ashwin]
+### 🔥 Developed with ❤️ by Karnati Ashwin
 
